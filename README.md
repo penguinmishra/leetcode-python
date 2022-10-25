@@ -11,5 +11,5 @@
 | Problem | Category | Problem Link |
 | ------- | -------- | -------------|
 | 219. Contains Duplicate II | Easy | https://leetcode.com/problems/contains-duplicate-ii/ |
-| 1662. Check If Two String Arrays are Equivalent | https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ |
+| 1662. Check If Two String Arrays are Equivalent | Easy | https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ |
 
