@@ -12,4 +12,7 @@
 | ------- | -------- | -------------|
 | 219. Contains Duplicate II | Easy | https://leetcode.com/problems/contains-duplicate-ii/ |
 | 1662. Check If Two String Arrays are Equivalent | Easy | https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/ |
-
+| 26. Remove Duplicates from Sorted Array | Easy | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
+| 1047. Remove All Adjacent Duplicates In String | Easy | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ |
+| 901. Online Stock Span | Medium | https://leetcode.com/problems/online-stock-span/ |
+| 1544. Make The String Great | Easy | https://leetcode.com/problems/make-the-string-great/ |
