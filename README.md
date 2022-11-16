@@ -17,4 +17,6 @@
 | 901. Online Stock Span | Medium | https://leetcode.com/problems/online-stock-span/ |
 | 1544. Make The String Great | Easy | https://leetcode.com/problems/make-the-string-great/ |
 | 947. Most Stones Removed with Same Row or Column | Medium | https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/ |
-| 222. Count Complete Tree Nodes | Medium | https://leetcode.com/problems/count-complete-tree-nodes/description/ |
+| 222. Count Complete Tree Nodes | Medium | https://leetcode.com/problems/count-complete-tree-nodes/ |
+| 374. Guess Number Higher or Lower | Easy | https://leetcode.com/problems/guess-number-higher-or-lower/ |
+| 658. Find K Closest Elements | Medium | https://leetcode.com/problems/find-k-closest-elements/ |
