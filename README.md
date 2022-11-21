@@ -20,3 +20,5 @@
 | 222. Count Complete Tree Nodes | Medium | https://leetcode.com/problems/count-complete-tree-nodes/ |
 | 374. Guess Number Higher or Lower | Easy | https://leetcode.com/problems/guess-number-higher-or-lower/ |
 | 658. Find K Closest Elements | Medium | https://leetcode.com/problems/find-k-closest-elements/ |
+| 1926. Nearest Exit from Entrance in Maze | Medium | https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/ |
+
