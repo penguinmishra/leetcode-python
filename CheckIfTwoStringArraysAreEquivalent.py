@@ -15,6 +15,7 @@ def arrayStringsAreEqual(word1, word2):
 		return i == len(word1) and j == len(word2)
 
 
+
 if __name__ == '__main__':
     word1 = ["ab", "c"]
     word2 = ["a", "bc"]
