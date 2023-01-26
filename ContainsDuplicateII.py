@@ -13,6 +13,7 @@ def containsNearbyDuplicate(nums, k):
     return False
 
 
+
 # driver code
 if __name__ == '__main__':
     nums = [1,2,3,1,2,3]
